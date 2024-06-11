@@ -1,2 +1,2 @@
-#!/bin/bash ln -s /bin/ls __ls__
+#!/bin/bash ln -s /bin/ls_ls_
 echo "Enlace simbólico __ls__ creado correctamente."
