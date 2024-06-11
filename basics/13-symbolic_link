@@ -1,2 +1,2 @@
-#!/bin/bash ln -s /bin/ls__ls__
-Enlace simbólico __ls__ creado correctamente.
+#!/bin/bash 
+ln -s /bin/ls __ls__
